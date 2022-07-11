@@ -1,1 +1,1 @@
-hoge
+This repository is to leran how to use GitHub.
